@@ -30,7 +30,7 @@ public class Main {
         int[] mergeSortArray = Arrays.copyOf(numbers, numbers.length);
         System.out.println("\nMerge Sort:");
         MergeSort mergeSort = new MergeSort();
-        mergeSort.sort(mergeSortArray);
+        int[] sortArray = mergeSort.sort(mergeSortArray);
 
         System.out.println("========================Search Algorithms========================");
 
@@ -38,5 +38,16 @@ public class Main {
         System.out.println("\nLinear Search:");
         LinearSearch linearSearch = new LinearSearch();
         linearSearch.search(numbers, 24);
+
+        // Recursive Binary Search
+        System.out.println("\nRecursive Binary Search:");
+        RecursiveBinarySearch recursiveBinarySearch = new RecursiveBinarySearch();
+        recursiveBinarySearch.search(sortArray, 24, 0, numbers.length - 1);
+
+        // Iterative Binary Search
+        System.out.println("\nIterative Binary Search:");
+        IterativeBinarySearch iterativeBinarySearch = new IterativeBinarySearch();
+        iterativeBinarySearch.search(sortArray, 24);
+
     }
 }

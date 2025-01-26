@@ -13,3 +13,9 @@ X
 (src/main/java/org/example/MergeSort.java,e\2\e2f234cc9e8485bb829ac46b1d813061a056bc2c
 [
 +src/main/java/org/example/LinearSearch.java,f\5\f5ab5be1c7ca7f250d1215a9a8df7c141d98dd88
+[
++src/main/java/org/example/BinarySearch.java,d\7\d7915b0863ebf38e820443ea87b2c9772221d3ee
+d
+4src/main/java/org/example/RecursiveBinarySearch.java,8\e\8e8cbc5289aba4a5863c74881c9e59d178c67e6b
+d
+4src/main/java/org/example/IterativeBinarySearch.java,f\a\fab0f2e83cf282a30dfa6654249429236ff83372

@@ -3,10 +3,11 @@ package org.example;
 import java.util.Arrays;
 
 public class MergeSort {
-    public void sort(int[] numbers) {
+    public int[] sort(int[] numbers) {
         long startTime = System.nanoTime();
 
         sortRecursive(numbers);
+
 
         long endTime = System.nanoTime();
         long duration = endTime - startTime;
@@ -14,6 +15,7 @@ public class MergeSort {
         System.out.println("Sorted Array: " + Arrays.toString(numbers));
         System.out.println("Time complexity: O(n log n)");
         System.out.println("Execution time: " + duration + " nanoseconds");
+        return numbers;
     }
 
     private void sortRecursive(int[] numbers) {
