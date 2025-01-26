@@ -1,0 +1,8 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(ƒÆË8©ÁÌ“Ê2J$fda10904-da88-4045-990a-714c96baf991
+r	java:S106"+Replace this use of System.out by a logger.(íìÁúÿÿÿÿ8«ÁÌ“Ê2J$01ef1ff7-b98c-454c-927e-9aa513d334a2
+l	java:S106"+Replace this use of System.out by a logger.(˜38¬ÁÌ“Ê2J$678eb56c-c1d6-4ab0-91c9-e5804d07bb16
+œ
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(º×©Ý8®ÁÌ“Ê2J$7bc0ef79-5592-4fbc-bf94-d6753edd48fb
+
+java:S1659-">Declare "y" and all following declarations on a separate line.(®Ò°Ž8¹å¾“Ê2J$4ba8be2f-102d-4b99-a09f-ca49d4cc117f
