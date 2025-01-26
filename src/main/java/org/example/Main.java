@@ -9,5 +9,8 @@ public class Main {
         SelectionSort selectionSort = new SelectionSort();
         selectionSort.sort(numbers);
 
+        InsertionSort insertionSort = new InsertionSort();
+        insertionSort.sort(numbers);
+
     }
 }

@@ -7,3 +7,5 @@ Y
 )src/main/java/org/example/BubbleSort.java,d\d\dd750ebf5add5f0ac52bec438d1521c81b62a882
 \
 ,src/main/java/org/example/SelectionSort.java,3\f\3fb4319dd057814726c7a915b9abdc7942e120b4
+\
+,src/main/java/org/example/InsertionSort.java,4\d\4df14dbd13311a3df5a6b6d17d85105ee900e97e
