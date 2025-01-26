@@ -12,5 +12,8 @@ public class Main {
         InsertionSort insertionSort = new InsertionSort();
         insertionSort.sort(numbers);
 
+        MergeSort mergeSort = new MergeSort();
+        mergeSort.sort(numbers);
+
     }
 }

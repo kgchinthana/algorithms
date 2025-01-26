@@ -9,3 +9,5 @@ Y
 ,src/main/java/org/example/SelectionSort.java,3\f\3fb4319dd057814726c7a915b9abdc7942e120b4
 \
 ,src/main/java/org/example/InsertionSort.java,4\d\4df14dbd13311a3df5a6b6d17d85105ee900e97e
+X
+(src/main/java/org/example/MergeSort.java,e\2\e2f234cc9e8485bb829ac46b1d813061a056bc2c
