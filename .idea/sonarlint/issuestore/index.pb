@@ -11,3 +11,5 @@ Y
 ,src/main/java/org/example/InsertionSort.java,4\d\4df14dbd13311a3df5a6b6d17d85105ee900e97e
 X
 (src/main/java/org/example/MergeSort.java,e\2\e2f234cc9e8485bb829ac46b1d813061a056bc2c
+[
++src/main/java/org/example/LinearSearch.java,f\5\f5ab5be1c7ca7f250d1215a9a8df7c141d98dd88
