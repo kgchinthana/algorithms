@@ -1,8 +1,8 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(ƒÆË8©ÁÌ“Ê2J$fda10904-da88-4045-990a-714c96baf991
-r	java:S106"+Replace this use of System.out by a logger.(íìÁúÿÿÿÿ8«ÁÌ“Ê2J$01ef1ff7-b98c-454c-927e-9aa513d334a2
-l	java:S106"+Replace this use of System.out by a logger.(˜38¬ÁÌ“Ê2J$678eb56c-c1d6-4ab0-91c9-e5804d07bb16
+m	java:S106"+Replace this use of System.out by a logger.(ƒÆË8©ÁÌ“Ê2J$cb7ed08f-b2cf-4157-94cb-960f0aaf850c
+r	java:S106"+Replace this use of System.out by a logger.(íìÁúÿÿÿÿ8«ÁÌ“Ê2J$4826ab56-378a-4b8a-9a7d-bfc8e216d6c3
+l	java:S106"+Replace this use of System.out by a logger.(˜38¬ÁÌ“Ê2J$ac4c1857-0504-4ef0-8ac7-91ff5530c406
 œ
-java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(º×©Ý8®ÁÌ“Ê2J$7bc0ef79-5592-4fbc-bf94-d6753edd48fb
+java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(º×©Ý8®ÁÌ“Ê2J$b6364598-0b26-4643-839d-0e2c1b0adb41
 
-java:S1659-">Declare "y" and all following declarations on a separate line.(®Ò°Ž8¹å¾“Ê2J$4ba8be2f-102d-4b99-a09f-ca49d4cc117f
+java:S1659/">Declare "y" and all following declarations on a separate line.(®Ò°Ž8¹å¾“Ê2J$aaea1e7c-4a2b-421c-9586-132694e99a1e
