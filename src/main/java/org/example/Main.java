@@ -6,5 +6,8 @@ public class Main {
         BubbleSort bubbleSort = new BubbleSort();
         bubbleSort.sort(numbers);
 
+        SelectionSort selectionSort = new SelectionSort();
+        selectionSort.sort(numbers);
+
     }
 }
